@@ -1,0 +1,68 @@
+[2026-01-27 06:21:22] === EMAIL TEST STARTED ===
+[2026-01-27 06:21:22] Recipient: bkweb11@gmail.com
+[2026-01-27 06:21:22] Subject: Test Email - 2026-01-27 06:21:22
+[2026-01-27 06:21:22] Headers configured properly
+[2026-01-27 06:21:22] Mail function result: FALSE (0) - Failed
+[2026-01-27 06:21:22] === EMAIL TEST ENDED ===
+[2026-01-27 06:24:50] === EMAIL TEST STARTED ===
+[2026-01-27 06:24:50] Recipient: bkweb11@gmail.com
+[2026-01-27 06:24:50] Subject: Test Email - 2026-01-27 06:24:50
+[2026-01-27 06:24:50] Headers configured properly
+[2026-01-27 06:24:50] Mail function result: FALSE (0) - Failed
+[2026-01-27 06:24:50] === EMAIL TEST ENDED ===
+[2026-01-27 06:33:13] === SMTP EMAIL TEST STARTED ===
+[2026-01-27 06:33:13] SMTP Host: finindiaadvisors.com:587
+[2026-01-27 06:33:13] Username: admin@finindiaadvisors.com
+[2026-01-27 06:35:34] === SMTP EMAIL TEST STARTED ===
+[2026-01-27 06:35:34] SMTP Host: finindiaadvisors.com:587
+[2026-01-27 06:35:34] Username: admin@finindiaadvisors.com
+[2026-01-27 06:37:28] === SMTP EMAIL TEST STARTED ===
+[2026-01-27 06:37:28] SMTP Host: finindiaadvisors.com:587
+[2026-01-27 06:37:28] Username: admin@finindiaadvisors.com
+[2026-01-27 06:40:01] === SMTP SEND EMAIL TEST ===
+[2026-01-27 06:40:01] Target recipient: bkweb11@gmail.com
+
+[2026-01-27 06:40:01] 
+--- Trying: Port 587 (TLS) ---
+[2026-01-27 06:40:01] Connecting to finindiaadvisors.com:587
+[2026-01-27 06:40:01] ✓ Connected
+[2026-01-27 06:40:01] ✓ Server: 220-server205.web-hosting.com ESMTP Exim 4.99.1 #2 Tue, 27 Jan 2026 01:40:01 -0500
+[2026-01-27 06:40:01] ✗ EHLO failed
+[2026-01-27 06:40:01] 
+--- Trying: Port 465 (SSL) ---
+[2026-01-27 06:40:01] Connecting to finindiaadvisors.com:465
+[2026-01-27 06:40:01] ✓ Connected
+[2026-01-27 06:41:01] ✗ Invalid SMTP response
+[2026-01-27 06:41:01] 
+--- Trying: Port 25 (None) ---
+[2026-01-27 06:41:01] Connecting to finindiaadvisors.com:25
+[2026-01-27 06:41:01] ✓ Connected
+[2026-01-27 06:41:01] ✓ Server: 220-server205.web-hosting.com ESMTP Exim 4.99.1 #2 Tue, 27 Jan 2026 01:41:01 -0500
+[2026-01-27 06:41:01] ✗ EHLO failed
+[2026-01-27 06:41:01] 
+=== ✗ EMAIL FAILED ===
+[2026-01-27 06:41:01] Could not send email with any configuration
+[2026-01-27 06:41:01] 
+=== TEST COMPLETE ===
+[2026-01-27 06:43:34] === SMTP SEND EMAIL TEST ===
+[2026-01-27 06:43:34] Target recipient: bkweb11@gmail.com
+
+[2026-01-27 06:43:34] 
+--- Trying: Port 587 (TLS) ---
+[2026-01-27 06:43:34] Connecting to finindiaadvisors.com:587
+[2026-01-27 06:43:34] ✓ Server: 220-server205.web-hosting.com ESMTP Exim 4.99.1 #2 Tue, 27 Jan 2026 01:43:34 -0500 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+[2026-01-27 06:43:34] ✓ EHLO OK
+[2026-01-27 06:43:34] Starting TLS...
+[2026-01-27 06:43:34] ✓ TLS enabled
+[2026-01-27 06:43:34] Authenticating...
+[2026-01-27 06:43:34] ✓ Authentication successful
+[2026-01-27 06:43:34] Sending email...
+[2026-01-27 06:43:34] ✓ Email accepted by server!
+[2026-01-27 06:43:34] 
+=== ✓ EMAIL SENT SUCCESSFULLY ===
+[2026-01-27 06:43:34] Configuration: Port 587 (TLS)
+[2026-01-27 06:43:34] To: bkweb11@gmail.com
+[2026-01-27 06:43:34] 
+=== TEST COMPLETE ===

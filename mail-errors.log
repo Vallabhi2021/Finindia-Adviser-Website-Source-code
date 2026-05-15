@@ -1,0 +1,70 @@
+[2026-01-27 05:57:27] Mail send failed - To: bkweb11@gmail.com, Subject: Website Contact: Nominee Vishwakarama, Error: Constant FILTER_SANITIZE_STRING is deprecated
+[2026-01-27 06:04:23] Mail send failed - To: bkweb11@gmail.com, Subject: Website Contact: Nominee Vishwakarama, Error: Constant FILTER_SANITIZE_STRING is deprecated
+[2026-01-27 06:45:28] SMTP Error: RCPT TO rejected
+[2026-01-27 06:46:49] Sending email to: bkweb11@gmail.com, Subject: Website Contact: Nominee Vishwakarama, From: bkweb11@gmail.com
+[2026-01-27 06:46:49] SMTP Error in send(): RCPT TO rejected: 550-"Your IP: 198.54.115.80 : Your domain gmail.com is not allowed in header
+550 From"
+[2026-01-27 06:46:49] SMTP Send failed: RCPT TO rejected: 550-"Your IP: 198.54.115.80 : Your domain gmail.com is not allowed in header
+550 From"
+[2026-01-27 06:53:57] Sending email to: bkweb11@gmail.com, Subject: Website Contact: Nominee Vishwakarama, Reply-To: bkweb11@gmail.com
+[2026-01-27 06:53:57] Email sent successfully to bkweb11@gmail.com from admin@finindiaadvisors.com
+[2026-01-27 06:53:57] Email sent successfully
+[2026-01-27 06:57:14] Sending email to: bkweb11@gmail.com, Subject: Website Contact: Nominee Vishwakarama, Reply-To: bkweb11@gmail.com
+[2026-01-27 06:57:14] Email sent successfully to bkweb11@gmail.com from admin@finindiaadvisors.com
+[2026-01-27 06:57:14] Email sent successfully
+[2026-01-27 06:59:03] Sending email to: bkweb11@gmail.com, Subject: Website Contact: Nominee Vishwakarama, Reply-To: bkweb11@gmail.com
+[2026-01-27 06:59:03] Email sent successfully to bkweb11@gmail.com from admin@finindiaadvisors.com
+[2026-01-27 06:59:03] Email sent successfully
+[2026-01-27 07:00:32] Sending email to: bkweb11@gmail.com, Subject: Website Contact: Nominee Vishwakarama, Reply-To: bkweb11@gmail.com
+[2026-01-27 07:00:32] Email sent successfully to bkweb11@gmail.com from admin@finindiaadvisors.com
+[2026-01-27 07:00:32] Email sent successfully
+[2026-01-27 07:02:01] Sending email to: bkweb11@gmail.com, Subject: Website Contact: Nominee Vishwakarama, From: bkweb11@gmail.com
+[2026-01-27 07:02:01] SMTP Error in send(): RCPT TO rejected: 550-"Your IP: 198.54.115.80 : Your domain gmail.com is not allowed in header
+550 From"
+[2026-01-27 07:02:01] SMTP Send failed: RCPT TO rejected: 550-"Your IP: 198.54.115.80 : Your domain gmail.com is not allowed in header
+550 From"
+[2026-01-27 07:02:13] Sending email to: bkweb11@gmail.com, Subject: Website Contact: Nominee Vishwakarama, From: bkweb11@gmail.com
+[2026-01-27 07:02:13] Email sent successfully to bkweb11@gmail.com from admin@finindiaadvisors.com
+[2026-01-27 07:02:13] Email sent successfully
+[2026-01-27 07:04:13] Sending email to: bkweb11@gmail.com, Subject: Website Contact: Nominee Vishwakarama, Reply-To: bkweb11@gmail.com
+[2026-01-27 07:04:13] Email sent successfully to bkweb11@gmail.com from admin@finindiaadvisors.com
+[2026-01-27 07:04:13] Email sent successfully
+[2026-01-27 07:10:35] Sending email to: bkweb11@gmail.com, Subject: Request Call Back: Marcia Cotton, From: haqatupep@mailinator.com
+[2026-01-27 07:10:35] Email sent successfully to bkweb11@gmail.com from admin@finindiaadvisors.com
+[2026-01-27 07:10:35] Email sent successfully
+[2026-01-27 07:11:00] Sending email to: bkweb11@gmail.com, Subject: Job Application: Manager Digital Marketing - TEST Career, From: mohiredan@mailinator.com
+[2026-01-27 07:11:00] Email sent successfully to bkweb11@gmail.com from admin@finindiaadvisors.com
+[2026-01-27 07:11:00] Email sent successfully
+[2026-01-27 07:13:08] Sending email to: bkweb11@gmail.com, Subject: Job Application: UI/UX Designer - Test with Design, From: dugygucocu@mailinator.com
+[2026-01-27 07:13:08] Email sent successfully to bkweb11@gmail.com from admin@finindiaadvisors.com
+[2026-01-27 07:13:08] Email sent successfully
+[2026-01-27 07:13:49] Sending email to: bkweb11@gmail.com, Subject: Job Application: UI/UX Designer - Test Design UI
+[2026-01-27 07:13:49] Email sent successfully to bkweb11@gmail.com from admin@finindiaadvisors.com
+[2026-01-27 07:13:49] Email sent successfully
+[2026-01-27 07:15:26] Sending email to: bkweb11@gmail.com, Subject: Job Application: Senior Software Developer - Clio Turner
+[2026-01-27 07:15:26] Email sent successfully to bkweb11@gmail.com from admin@finindiaadvisors.com
+[2026-01-27 07:15:26] Email sent successfully
+[2026-01-27 07:17:48] Sending email to: bkweb11@gmail.com, Subject: Job Application: Senior Software Developer - Brandon Cleveland
+[2026-01-27 07:17:48] Email sent successfully to bkweb11@gmail.com from admin@finindiaadvisors.com
+[2026-01-27 07:17:48] Email sent successfully
+[2026-01-27 07:19:15] Sending email to: bkweb11@gmail.com, Subject: Job Application: Senior Software Developer - Donovan Conner
+[2026-01-27 07:19:15] Email sent successfully to bkweb11@gmail.com from admin@finindiaadvisors.com
+[2026-01-27 07:19:15] Email sent successfully
+[2026-01-27 07:21:56] Sending email to: bkweb11@gmail.com, Subject: Job Application: Senior Software Developer - Ifeoma Banks
+[2026-01-27 07:21:56] Email sent successfully to bkweb11@gmail.com from admin@finindiaadvisors.com
+[2026-01-27 07:21:56] Email sent successfully
+[2026-01-27 07:24:04] Sending email to: bkweb11@gmail.com, Subject: Job Application: Senior Software Developer - Mariam Ramsey
+[2026-01-27 07:24:04] Email sent successfully to bkweb11@gmail.com from admin@finindiaadvisors.com
+[2026-01-27 07:24:04] Email sent successfully
+[2026-01-27 07:27:21] Sending email to: bkweb11@gmail.com, Subject: Job Application: UI/UX Designer - Oleg Blanchard, Attachment: resume_1769498841_Hospital_bill.pdf
+[2026-01-27 07:27:21] Email sent successfully to bkweb11@gmail.com from admin@finindiaadvisors.com
+[2026-01-27 07:27:21] Email sent successfully with attachment
+[2026-01-27 08:49:49] Sending email to: gaurav.sondhi@vallabhicapital.com, Subject: Request Call Back: Gaurav Chauhan
+[2026-01-27 08:49:49] Email sent successfully to gaurav.sondhi@vallabhicapital.com from admin@finindiaadvisors.com
+[2026-01-27 08:49:49] Email sent successfully
+[2026-01-27 08:51:32] Sending email to: gaurav.sondhi@vallabhicapital.com, Subject: Website Contact: Gaurav Chauhan
+[2026-01-27 08:51:32] Email sent successfully to gaurav.sondhi@vallabhicapital.com from admin@finindiaadvisors.com
+[2026-01-27 08:51:32] Email sent successfully
+[2026-01-27 11:18:05] Sending email to: gaurav.sondhi@vallabhicapital.com, Subject: Job Application: Manager Digital Marketing - Gaurav Chauhan
+[2026-01-27 11:18:05] Email sent successfully to gaurav.sondhi@vallabhicapital.com from admin@finindiaadvisors.com
+[2026-01-27 11:18:05] Email sent successfully

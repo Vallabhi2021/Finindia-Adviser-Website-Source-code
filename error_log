@@ -1,0 +1,133 @@
+[27-Jan-2026 06:33:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SimpleSMTP::log() in /home/finidmuz/public_html/testemail.php:38
+Stack trace:
+#0 /home/finidmuz/public_html/testemail.php(156): SimpleSMTP->send()
+#1 {main}
+  thrown in /home/finidmuz/public_html/testemail.php on line 38
+[27-Jan-2026 06:35:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SimpleSMTP::log() in /home/finidmuz/public_html/testemail.php:38
+Stack trace:
+#0 /home/finidmuz/public_html/testemail.php(156): SimpleSMTP->send()
+#1 {main}
+  thrown in /home/finidmuz/public_html/testemail.php on line 38
+[27-Jan-2026 06:37:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SimpleSMTP::log() in /home/finidmuz/public_html/testemail.php:38
+Stack trace:
+#0 /home/finidmuz/public_html/testemail.php(156): SimpleSMTP->send()
+#1 {main}
+  thrown in /home/finidmuz/public_html/testemail.php on line 38
+[27-Jan-2026 06:45:28 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 06:45:28 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 06:45:28 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 06:45:28 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 06:46:49 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 06:46:49 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 06:46:49 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 06:46:49 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 06:53:57 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 06:53:57 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 06:53:57 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 06:53:57 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 06:57:14 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 06:57:14 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 06:57:14 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 06:57:14 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 06:59:03 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 06:59:03 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 06:59:03 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 06:59:03 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:00:32 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:00:32 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:00:32 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:00:32 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:02:01 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:02:01 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:02:01 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:02:01 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:02:13 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:02:13 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:02:13 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:02:13 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:04:13 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:04:13 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:04:13 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:04:13 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:10:35 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:10:35 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:10:35 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:10:35 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:11:00 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:11:00 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:11:00 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:11:00 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:11:00 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:11:00 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:11:00 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:13:08 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:13:08 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:13:08 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:13:08 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:13:08 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:13:08 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:13:08 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:13:49 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:13:49 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:13:49 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:13:49 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:13:49 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:13:49 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:13:49 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:15:26 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:15:26 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:15:26 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:15:26 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:15:26 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:15:26 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:15:26 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:17:48 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:17:48 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:17:48 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:17:48 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:17:48 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:17:48 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:17:48 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:19:15 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:19:15 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:19:15 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:19:15 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:19:15 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:19:15 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:19:15 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:21:56 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:21:56 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:21:56 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:21:56 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:21:56 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:21:56 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:21:56 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:24:04 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:24:04 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:24:04 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:24:04 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:24:04 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:24:04 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:24:04 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:27:21 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:27:21 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:27:21 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:27:21 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:27:21 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:27:21 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 07:27:21 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 30
+[27-Jan-2026 08:49:49 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 31
+[27-Jan-2026 08:49:49 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 31
+[27-Jan-2026 08:49:49 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 31
+[27-Jan-2026 08:49:49 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 31
+[27-Jan-2026 08:51:32 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 31
+[27-Jan-2026 08:51:32 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 31
+[27-Jan-2026 08:51:32 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 31
+[27-Jan-2026 08:51:32 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 31
+[27-Jan-2026 11:18:05 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 31
+[27-Jan-2026 11:18:05 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 31
+[27-Jan-2026 11:18:05 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 31
+[27-Jan-2026 11:18:05 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 31
+[27-Jan-2026 11:18:05 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 31
+[27-Jan-2026 11:18:05 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 31
+[27-Jan-2026 11:18:05 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/finidmuz/public_html/sendmailer.php on line 31
